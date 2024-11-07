@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Libereco
+    url: https://liberecohelados.com.ar/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /is-up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Is upp
+  name: Checking applications
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Checking your sites
   navbar:
