@@ -6,8 +6,7 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Libereco
-    url: https://www.liberecohelados.com.ar
+    
 status-website: # Status website (optional)
   baseUrl: /is-up.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
