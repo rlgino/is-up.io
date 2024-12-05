@@ -9,8 +9,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Libereco
     url: https://liberecohelados.com.ar
-  - name: Backend
-    url: https://api-go-dev.liberecohelados.com.ar/api/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
