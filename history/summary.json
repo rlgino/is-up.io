@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 80,
-    "timeWeek": 135,
+    "timeDay": 87,
+    "timeWeek": 132,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 386,
-    "timeWeek": 392,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 269,
+    "timeDay": 353,
+    "timeWeek": 380,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -47,12 +47,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 160,
-    "timeDay": 179,
-    "timeWeek": 161,
+    "timeDay": 163,
+    "timeWeek": 158,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-12-05": 44,
+      "2024-12-05": 48,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -81,26 +81,6 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 90
-    }
-  },
-  {
-    "name": "Backend",
-    "url": "https://api-go-dev.liberecohelados.com.ar/api/status",
-    "icon": "https://icons.duckduckgo.com/ip3/api-go-dev.liberecohelados.com.ar.ico",
-    "slug": "backend",
-    "status": "down",
-    "uptime": "6.12%",
-    "uptimeDay": "6.12%",
-    "uptimeWeek": "6.12%",
-    "uptimeMonth": "6.12%",
-    "uptimeYear": "6.12%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
-    "dailyMinutesDown": {
-      "2024-12-05": 0
     }
   }
 ]
