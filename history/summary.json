@@ -6,15 +6,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 231,
-    "timeWeek": 133,
+    "time": 112,
+    "timeDay": 92,
+    "timeWeek": 135,
     "timeMonth": 124,
-    "timeYear": 113,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2025-07-02": 34,
       "2025-06-22": 33
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 300,
-    "timeWeek": 215,
-    "timeMonth": 187,
+    "timeDay": 181,
+    "timeWeek": 229,
+    "timeMonth": 190,
     "timeYear": 201,
     "dailyMinutesDown": {}
   }
